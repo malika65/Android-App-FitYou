@@ -1,5 +1,5 @@
 # Android-App-FitYou
-<img src="https://i.imgur.com/QmdoQ0u.jpeg" alt="alt text" width="100" height="100">
+<img src="https://imgur.com/IzuWj2l" alt="alt text" width="200" height="250">
 
 
 
