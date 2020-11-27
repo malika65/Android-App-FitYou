@@ -1,5 +1,5 @@
 # Android-App-FitYou
-## THis app can help you to do exercises and know how much calories have you burned . You can manitor you weight.
+## This app can help you to do exercises and know how much calories have you burned . You can manitor you weight.
 
 ## Login and Registration page . Use Firebase to store the data
 <img src="https://i.imgur.com/IzuWj2l.jpg" alt="alt text" width="200" height="320">
