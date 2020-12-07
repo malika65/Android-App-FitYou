@@ -1,6 +1,9 @@
 # Android-App-FitYou
 ## This app can help you to do exercises and know how much calories have you burned . You can manitor you weight.
 
+## Figma design : https://www.figma.com/file/zAIlWqN92rb9cQ9cL4DFe4/FitYou?node-id=0%3A1
+
+
 ## Login and Registration page . Use Firebase to store the data
 <img src="https://i.imgur.com/IzuWj2l.jpg" alt="alt text" width="200" height="320">
 <img src="https://i.imgur.com/7curbSr.jpg" alt="alt text" width="200" height="320">
