@@ -3,6 +3,8 @@
 
 ## Figma design : https://www.figma.com/file/zAIlWqN92rb9cQ9cL4DFe4/FitYou?node-id=0%3A1
 
+## Json file : https://run.mocky.io/v3/e7a36537-572a-420c-a30d-559a2ddeddb6
+
 
 ## Login and Registration page . Use Firebase to store the data
 <img src="https://i.imgur.com/IzuWj2l.jpg" alt="alt text" width="200" height="320">
