@@ -16,7 +16,7 @@
 ## RecyclerView with cardview. Use retrofit to read and represent .json file
 <img src="https://i.imgur.com/82DyWCg.jpg" alt="alt text" width="200" height="320">
 
-##  Page with exercises . Use DisplayMetrics to open window smaller than the main window
+## Page with exercises. Use DisplayMetrics to open window smaller than the main window
 <img src="https://i.imgur.com/z4YlTAu.jpg" alt="alt text" width="200" height="320">
 ## Page to add burned calories into firebase to display them in profile
 <img src="https://i.imgur.com/hkmi80L.jpg" alt="alt text" width="200" height="320">
